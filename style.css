@@ -1,7 +1,9 @@
 body {
-	colour: black;
-	background: silver;
+	background-color:black;
+	color:white;
 	margin-left: 200px;
-	margin-right; auto;
+	margin-right: auto;
 }
-
+h1 {
+	color: silver;
+}
