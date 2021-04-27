@@ -5,5 +5,17 @@ body {
 	margin-right: auto;
 }
 h1 {
-	color: silver;
+	color: #ad0000;
+}
+a:link {
+	color:#ff0909;
+}
+a:visited {
+	color:#610404;
+}
+a:hover {
+	color:#a80505;
+}
+a:active {
+	color:#ca2121;
 }
