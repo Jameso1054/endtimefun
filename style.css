@@ -1,11 +1,13 @@
 body {
 	background-color:black;
-	color:white;
-	margin-left: 200px;
-	margin-right: auto;
+	color: white;
+	margin-left: 400px;
+	margin-right: 400px;
+	
+	
 }
 h1 {
-	color: #ad0000;
+	color:#ad0000;
 }
 a:link {
 	color:#610404;
@@ -18,4 +20,11 @@ a:hover {
 }
 a:active {
 	color:#ca2121;
+}
+
+div {
+  width: 300px;
+  border: 15px solid grey;
+  padding: 50px;
+  
 }
