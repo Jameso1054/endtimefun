@@ -4,17 +4,28 @@ body {
 	color: white;
 }
 
+
 @media screen and (min-width: 320px){
 body{
 	margin-left:400px;}
 	margin-right: auto;
 }}
 
+
 @media only screen and (max-width: 320px){
 body{
-	margin-left: 80px;
+	margin-left: 40px;
 	margin-right: auto;
 }}
+
+
+div {
+
+	width: 300px;
+	border: 15px solid grey;
+	padding: 50px;
+}
+
 
 h1 {
 	color:#ad0000;
@@ -32,9 +43,5 @@ a:hover {
 a:active {
 	color:#ca2121;
 }
-div {
-	width: 300px;
-	border: 15px solid grey;
-	padding: 50px;
-  
+
 }
