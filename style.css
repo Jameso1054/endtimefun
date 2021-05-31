@@ -1,36 +1,31 @@
 
 body {
-	background-color:black;
-	color: white;
+	background-color:#aadff0;
+	color: black;
+	margin-left:10%;
+	margin-right:auto;
+	padding: 5%;
 }
 
-
-@media screen and (min-width: 320px){
-body{
-	margin-left:400px;
-	margin-right: 400px;
-}}
-
-
-@media only screen and (max-width: 320px){
-body{
-	margin-left: 40px;
-	margin-right: 40px;
-}}
-
-
 div {
-
-	width: 300px;
+	background-color: white;
+	width: 70%;
 	border: 15px solid grey;
-	padding: 50px;
+	padding: 3%;
 }
 
 
 h1 {
-	color:#ad0000;
-	margin-left: 100px;
+	color:red;
+	margin-left: 20%;
+	font-weight: 900;
+	
 }
+h2 {
+	color: purple;
+	margin-left: 19%;
+}
+
 a:link {
 	color:#610404;
 }
