@@ -1,29 +1,35 @@
 
-body {
-	background-color:#aadff0;
-	color: black;
-	margin-left:10%;
-	margin-right:auto;
-	padding: 5%;
-}
-
 div {
 	background-color: white;
-	width: 70%;
+	width: 94%;
 	border: 15px solid grey;
 	padding: 3%;
 }
 
 
+body {
+	background-color:darkred;
+	color: black;
+	margin-left:10%;
+	margin-right:10%;
+	padding: 5%;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+.center {
+	text-align: center;
+}
+
 h1 {
-	color:red;
-	margin-left: 20%;
+	color:black;
 	font-weight: 900;
 	
 }
 h2 {
-	color: purple;
-	margin-left: 19%;
+	color: silver;
 }
 
 a:link {
@@ -37,6 +43,4 @@ a:hover {
 }
 a:active {
 	color:#ca2121;
-}
-
 }
